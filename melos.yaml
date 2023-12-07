@@ -1,0 +1,13 @@
+name: creatego
+
+packages:
+  - packages
+  - packages/packages/*
+  - backend/backend_client
+  - backend/backend_server
+  - ide/*
+  - starter_app
+
+scripts:
+  analyze:
+    exec: dart analyze .
