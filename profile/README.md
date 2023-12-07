@@ -9,7 +9,7 @@
 * packages => Contains core part of CreateGo (Interfaces, Layout, Store)
 * starter_app => Starter App which is cloned and replaced project id for dynamic CreateGo app
 * backend => Serverpod API backend with protocols and endpoints
-* .gitignore => Contains README file and melos configurations
+* .gitignore => Contains README file, melos configurations and commands
   * Put 2 files (**melos.yaml** and **pubspec.yaml**) in the root of all projects and configure melos file based on what project you have
 
 ### Docker commands
