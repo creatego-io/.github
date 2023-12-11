@@ -30,6 +30,6 @@
 
 ### Server update with Docker
  * build img file only with the same name **Make sure to be inside the folder where Dockerfile contains**
-   * docker build -t shokhjakhon/ceatego:v0.0.1 .
+   * docker build -t komiljonovibexlab/creatego:v0.0.1 .
  * push to hub
-   * docker push shokhjakhon/ceatego:v0.0.1
+   * docker push komiljonovibexlab/creatego:v0.0.1
