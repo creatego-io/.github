@@ -33,3 +33,7 @@
    * docker build -t komiljonovibexlab/creatego:v0.0.1 .
  * push to hub
    * docker push komiljonovibexlab/creatego:v0.0.1
+
+### Creatego backend Gitlab
+ * https://gitlab.yoshop.net/create-go/backend
+ * Owner: komiljonov@ibexlab.com
