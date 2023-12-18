@@ -45,7 +45,7 @@
  * Adding List<Map<String, String>>
    * ALTER TABLE table_name
    * ADD COLUMN column_name json DEFAULT '[]' NOT NULL;
- * Adding a specific type<T>
+ * Adding a specific type type=T
    * ALTER TABLE table_name
    * ADD COLUMN column_name T
 
