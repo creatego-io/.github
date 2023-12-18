@@ -48,4 +48,7 @@
  * Adding a specific type type=T
    * ALTER TABLE table_name
    * ADD COLUMN column_name T
+ * Adding List type=integer
+   * ALTER TABLE table_name
+   * ADD COLUMN column_name json DEFAULT '[]'::integer[] NOT NULL;
 
