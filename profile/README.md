@@ -52,3 +52,7 @@
    * ALTER TABLE table_name
    * ADD COLUMN column_name json DEFAULT '[]'::integer[] NOT NULL;
 
+
+### Supabase
+* When new **profiles** table is changed(ex: new column add), need to modify the SQL trigger **Inser Row into Profiles** at SQL Editor
+* To remove trigger function -> _drop function if exists public.handle_new_user () cascade;_
