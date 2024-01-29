@@ -1,0 +1,66 @@
+[
+  {
+    "id": null,
+    "name": null,
+    "description": null,
+    "width": null,
+    "height": null,
+    "dx": null,
+    "dy": null,
+    "groups": null,
+    "previewImageUrl": null,
+    "createdAt": null,
+    "updatedAt": null,
+    "childWidgets": [
+      {
+        "dx": 0.0,
+        "dy": 0.0,
+        "type": "text",
+        "options": {
+          "text": "Hello world",
+          "fontSize": "16.0",
+          "fontWeight": "null",
+          "fontFamily": "Roboto",
+          "color": "null",
+          "width": "null",
+          "height": "null",
+          "selectableText": "null",
+          "textAlignment": "start"
+        }
+      }
+    ],
+    "isPublic": false
+  },
+  {
+    "id": null,
+    "name": null,
+    "description": null,
+    "width": null,
+    "height": null,
+    "dx": null,
+    "dy": null,
+    "groups": null,
+    "previewImageUrl": null,
+    "createdAt": null,
+    "updatedAt": null,
+    "childWidgets": [
+      {
+        "dx": 0.0,
+        "dy": 0.0,
+        "type": "text",
+        "options": {
+          "text": "Hello world",
+          "fontSize": "16.0",
+          "fontWeight": "null",
+          "fontFamily": "Roboto",
+          "color": "null",
+          "width": "null",
+          "height": "null",
+          "selectableText": "null",
+          "textAlignment": "start"
+        }
+      }
+    ],
+    "isPublic": false
+  }
+]

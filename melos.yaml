@@ -5,6 +5,8 @@ packages:
   - packages/packages/*
   - backend/backend_client
   - backend/backend_server
+  - backend/supabase
+  - ide
   - ide/*
   - starter_app
 
